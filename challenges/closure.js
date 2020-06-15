@@ -18,6 +18,8 @@ myFunction();
 
 // Explanation: 
 
+//Nested function can access the variable internal because of Closure which gives the nested function the ability to access variables outside of its function (e.g. in the parent function) but still within its lexical environment.
+
 
 /* Task 2: Counter */
 
